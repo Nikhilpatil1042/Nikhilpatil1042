@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - linkedin:-www.linkedin.com/in/
 nikhil-patil-4bb327249
+instagram:-https://www.instagram.com/nikhil_patil1402/
 
 - 😄 Pronouns: He/Him
 
