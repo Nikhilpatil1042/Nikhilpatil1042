@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nikhilpatil1042
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning different coding languages java ,python,c++,c,web development
-- 💞️ I’m looking for intership for a web developer.
+- 👀 I’m interested in development jobs z
+- 🌱 I have learned different coding panguages like html,css,javascript,bootstrap,python,c++,c,java, also framework like spring .
+- 💞️ I’m looking for intership in a development field.
+- 🧑‍💻 This is my portfolio i hope you like it :-
 - 📫 How to reach me
 - linkedin:-www.linkedin.com/in/
 nikhil-patil-4bb327249
